@@ -23,8 +23,8 @@
 hs_err_pid*
 
 #IntelliJ (Manuel)
-GenieLogiciel.iml
-misc.xml
-modules.xml
-vcs.xml
+#GenieLogiciel.iml
+#misc.xml
+#modules.xml
+#vcs.xml
 workspace.xml
